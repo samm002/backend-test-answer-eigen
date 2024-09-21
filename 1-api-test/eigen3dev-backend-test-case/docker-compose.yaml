@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  eigen3dev-dev-db:
+    image: postgres:16.4
+    ports:
+      - 5436:5432
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123
+      POSTGRES_DB: eigen3dev

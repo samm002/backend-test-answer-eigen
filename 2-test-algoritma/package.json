@@ -1,0 +1,15 @@
+{
+  "name": "2-test-algoritma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "soal1": "node ./soal-1/index.js",
+    "soal2": "node ./soal-2/index.js",
+    "soal3": "node ./soal-3/index.js",
+    "soal4": "node ./soal-4/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
